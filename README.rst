@@ -1,6 +1,6 @@
 This is a personal project for scraping a specific blog.
 
-*Configuration Required:*
+**Configuration Required**
 
 * <WORKING_DIR>/config.yaml file with the following syntax::
 
